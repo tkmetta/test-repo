@@ -1,3 +1,3 @@
 test-repo
 =========
-#testing 20Oct14
+testing 20Oct14
